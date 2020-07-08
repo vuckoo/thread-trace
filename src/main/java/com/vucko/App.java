@@ -32,5 +32,7 @@ public class App
             System.out.println("tst");
         });
 
+        executorService2.shutdown();
+
     }
 }
