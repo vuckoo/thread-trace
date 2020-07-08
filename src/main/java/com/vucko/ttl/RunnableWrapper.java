@@ -1,4 +1,4 @@
-package org.example.ttl;
+package com.vucko.ttl;
 
 public class RunnableWrapper implements Runnable{
 

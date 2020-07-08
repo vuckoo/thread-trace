@@ -1,11 +1,11 @@
-package org.example;
+package com.vucko;
 
 import static org.junit.Assert.assertTrue;
 
-import org.example.ttl.Context;
-import org.example.ttl.ContextManager;
-import org.example.ttl.ExecutorKit;
-import org.example.ttl.TraceInfo;
+import com.vucko.ttl.Context;
+import com.vucko.ttl.ExecutorKit;
+import com.vucko.ttl.TraceInfo;
+import com.vucko.ttl.ContextManager;
 import org.junit.Test;
 
 import java.util.concurrent.ExecutorService;
